@@ -24,9 +24,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ellendan000', // Usually your GitHub org/user name.
-  projectName: 'book-chanlun', // Usually your repo name.
-  deploymentBranch: 'stable-source',
+  // organizationName: 'ellendan000', // Usually your GitHub org/user name.
+  // projectName: 'book-chanlun', // Usually your repo name.
+  // deploymentBranch: 'stable-source',
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
