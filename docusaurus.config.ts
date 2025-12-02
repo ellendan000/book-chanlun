@@ -9,7 +9,7 @@ import rehypeKatex from 'rehype-katex';
 const config: Config = {
   title: '进股市，学理财',
   tagline: '进股市学理财',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-light.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -46,6 +46,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
+          showLastUpdateTime: true,
         },
         blog: false,
         // blog: {
@@ -77,8 +78,32 @@ const config: Config = {
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid'],
+  themes: [
+    '@docusaurus/theme-mermaid',
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        language: ["en", "zh"],
+        // 适配docs使用的路由路径，与presets.classic.docs.routeBasePath保持一致
+        docsRouteBasePath: "/",
+        // 不索引blog，因为当前未启用blog
+        indexBlog: false,
+        // 启用页面索引
+        indexPages: true,
+        // Customize the keyboard shortcut to focus search bar (default is "mod+k"):
+        // searchBarShortcutKeymap: "s", // Use 'S' key
+        // searchBarShortcutKeymap: "ctrl+shift+f", // Use Ctrl+Shift+F
 
+        // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
+        // forceIgnoreNoIndex: true,
+      }),
+    ],
+  ],
+  plugins: [
+    'drawio',
+  ],
 
   themeConfig: {
     // Replace with your project's social card
@@ -90,7 +115,7 @@ const config: Config = {
       title: "缠论笔记",
       logo: {
         alt: "缠论笔记",
-        src: 'img/logo.svg',
+        src: 'img/logo-light.png',
       },
       items: [
         {
