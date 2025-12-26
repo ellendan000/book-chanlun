@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lKABN3_W4iMktkN9aVkl-84" value="A`" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;opacity=40;strokeWidth=3;fontSize=20;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-203" value="仍算作 c 段&lt;div&gt;（线段级下跌）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;align=left;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;labelBackgroundColor=none;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="160" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="890" y="1080" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;opacity=40;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKABN3_W4iMktkN9aVkl-126" target="lKABN3_W4iMktkN9aVkl-22">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +35,10 @@
         <mxCell id="lKABN3_W4iMktkN9aVkl-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="510" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+        <mxCell id="lKABN3_W4iMktkN9aVkl-16" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+        <mxCell id="lKABN3_W4iMktkN9aVkl-15" value="A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1">
@@ -43,6 +46,11 @@
             <mxPoint x="20" y="10" as="sourcePoint" />
             <mxPoint x="50" y="90" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-209" value="a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lKABN3_W4iMktkN9aVkl-2">
+          <mxGeometry x="-0.1781" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1">
@@ -73,6 +81,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-210" value="b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lKABN3_W4iMktkN9aVkl-8">
+          <mxGeometry x="-0.0332" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="160" y="190" as="sourcePoint" />
@@ -99,6 +112,11 @@
             <mxPoint x="240" y="130" as="sourcePoint" />
             <mxPoint x="260" y="250" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-211" value="c" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lKABN3_W4iMktkN9aVkl-12">
+          <mxGeometry x="0.1973" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#808080;" edge="1" parent="1">
@@ -355,13 +373,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-124" value="第三种：反弹回到最后一个中枢范围" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="600" width="60" height="30" as="geometry" />
+        <mxCell id="lKABN3_W4iMktkN9aVkl-124" value="第三种：反弹回到最后一个中枢范围，至少触及ZD" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-131" value="转折失败，&lt;div&gt;在下面继续形成第三个中枢&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-134" value="最弱转折，&lt;div&gt;对下跌的最后一个中枢构成中枢扩展&lt;/div&gt;&lt;div&gt;（走势级别升级）&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lKABN3_W4iMktkN9aVkl-134" value="最弱转折，&lt;div&gt;对下跌的最后一个中枢构成中枢扩展&lt;/div&gt;&lt;div&gt;（走势级别升级, a` + A`）&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-135" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1">
@@ -392,8 +410,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lKABN3_W4iMktkN9aVkl-139" value="注意区别：第三买点&lt;div&gt;（仅回抽一个次级别，无法持续3个次级别构成中枢）&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="420" width="150" height="50" as="geometry" />
+        <mxCell id="lKABN3_W4iMktkN9aVkl-139" value="注意区别：盘整背驰构建的第三卖点&lt;div&gt;（仅回抽一个次级别，无法持续3个次级别构成中枢）&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="295" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="750" y="755" width="90" height="40" as="geometry" />
@@ -841,6 +859,40 @@
         </mxCell>
         <mxCell id="lKABN3_W4iMktkN9aVkl-201" value="下跌趋势 + 本级别以上的上涨趋势" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="930" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-202" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="980" y="504" as="sourcePoint" />
+            <mxPoint x="1000" y="560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-208" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B3B3B3;dashed=1;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="440" as="sourcePoint" />
+            <mxPoint x="870" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-212" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#B266FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="780" y="270" as="sourcePoint" />
+            <mxPoint x="810" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-213" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=40;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lKABN3_W4iMktkN9aVkl-214" value="a`" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="lKABN3_W4iMktkN9aVkl-213">
+          <mxGeometry x="-0.0738" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
